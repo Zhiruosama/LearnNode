@@ -1,3 +1,0 @@
-/home/murane/CLionProjects/homework/cmake-build-debug/CMakeFiles/homework.dir
-/home/murane/CLionProjects/homework/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/murane/CLionProjects/homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
